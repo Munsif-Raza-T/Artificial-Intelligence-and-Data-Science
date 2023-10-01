@@ -38,8 +38,6 @@ If you have any questions, suggestions, or just want to say hello, please feel f
 
 Let's make this repository a vibrant and collaborative space for all AI and Data Science enthusiasts. Happy hacking! 🚀
 
-![Hacktoberfest Logo](hacktoberfest.png)
-
 
 ## CONTRIBUTORS
 Amazing people who made their contributions. Feel free to contribute, and get yourself featured here!
@@ -47,4 +45,6 @@ Amazing people who made their contributions. Feel free to contribute, and get yo
 <a href="https://github.com/munsif-raza-t/artificial-intelligence-and-data-science/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=munsif-raza-t/artificial-intelligence-and-data-science" />
 </a>
+
+
 
