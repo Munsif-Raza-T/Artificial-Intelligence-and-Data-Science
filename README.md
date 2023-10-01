@@ -18,11 +18,11 @@ This repository serves as a central hub for AI and Data Science enthusiasts. It 
 
 ## Learning Resources
 
-Our [Learning Resources]('Learning\ Resources/') directory is a curated list of textbooks, online courses, tutorials, and articles covering a wide range of AI and Data Science topics. Whether you prefer video lectures or interactive coding exercises, you'll find resources tailored to your learning style.
+Our Learning Resources directory is a curated list of textbooks, online courses, tutorials, and articles covering a wide range of AI and Data Science topics. Whether you prefer video lectures or interactive coding exercises, you'll find resources tailored to your learning style.
 
 ## Projects
 
-In the [Projects]('Projects/') folder, you'll discover a collection of hands-on projects that cover various AI and Data Science domains. These projects are designed to help you apply your knowledge and gain practical experience. Feel free to contribute your own projects or suggest new ones!
+In the Projects folder, you'll discover a collection of hands-on projects that cover various AI and Data Science domains. These projects are designed to help you apply your knowledge and gain practical experience. Feel free to contribute your own projects or suggest new ones!
 
 ## Contribution Guidelines
 
