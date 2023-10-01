@@ -30,7 +30,7 @@ We welcome contributions from the community! If you'd like to contribute to this
 
 ## Contact
 
-If you have any questions, suggestions, or just want to say hello, please feel free to [contact us](#) through GitHub issues. We're here to help you on your AI and Data Science journey!
+If you have any questions, suggestions, or just want to say hello, please feel free to [contact us](https://github.com/Munsif-Raza-T/Artificial-Intelligence-and-Data-Science/issues) through GitHub issues. We're here to help you on your AI and Data Science journey!
 
 Let's make this repository a vibrant and collaborative space for all AI and Data Science enthusiasts. Happy hacking! 🚀
 
