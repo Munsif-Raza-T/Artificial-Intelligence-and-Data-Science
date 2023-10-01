@@ -15,13 +15,10 @@ Welcome to the "Artificial Intelligence and Data Science" repository for Hacktob
 
 This repository serves as a central hub for AI and Data Science enthusiasts. It aims to provide a wealth of resources, tutorials, and projects to help individuals learn and grow in the fields of AI and Data Science. Whether you're interested in machine learning, deep learning, data analysis, or any related topics, you'll find valuable content here.
 
-## Getting Started
-
-If you're new to AI and Data Science or just looking for a quick start, check out our [Getting Started](getting_started.md) guide. It provides an overview of the fundamentals and suggests a learning path to follow.
 
 ## Learning Resources
 
-Our [Learning Resources]('Learning Resources/') directory is a curated list of textbooks, online courses, tutorials, and articles covering a wide range of AI and Data Science topics. Whether you prefer video lectures or interactive coding exercises, you'll find resources tailored to your learning style.
+Our [Learning Resources]('Learning\ Resources/') directory is a curated list of textbooks, online courses, tutorials, and articles covering a wide range of AI and Data Science topics. Whether you prefer video lectures or interactive coding exercises, you'll find resources tailored to your learning style.
 
 ## Projects
 
