@@ -1,4 +1,4 @@
-### Act as an English Translator and Improver
+### 1. Act as an English Translator and Improver
 
 *An alternative to Grammarly, Google Translate*
 
