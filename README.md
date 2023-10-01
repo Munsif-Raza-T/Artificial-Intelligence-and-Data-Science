@@ -24,6 +24,10 @@ Our Learning Resources directory is a curated list of textbooks, online courses,
 
 In the Projects folder, you'll discover a collection of hands-on projects that cover various AI and Data Science domains. These projects are designed to help you apply your knowledge and gain practical experience. Feel free to contribute your own projects or suggest new ones!
 
+## Extras
+
+In the extras folder, you can contribute anything extra related to Artificial Intelligence and Data Science.
+
 ## Contribution Guidelines
 
 We welcome contributions from the community! If you'd like to contribute to this repository for Hacktoberfest, please review our [Contribution Guidelines](CONTRIBUTING.md). Whether it's fixing a typo, adding a new resource, or creating a project template, your contributions are valuable and appreciated.
