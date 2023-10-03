@@ -45,5 +45,3 @@ Amazing people who made their contributions. Feel free to contribute, and get yo
 <a href="https://github.com/munsif-raza-t/artificial-intelligence-and-data-science/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=munsif-raza-t/artificial-intelligence-and-data-science" />
 </a>
-
-
