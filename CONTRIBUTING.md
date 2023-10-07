@@ -15,7 +15,7 @@ To contribute to this repository, follow these steps:
 
 3. Create a new branch for your contributions:
     ```bash
-    git checkout -b feature/your-feature-name
+    **git checkout -b** feature/your-feature-name
 
 Please use a descriptive branch name that reflects the purpose of your changes.
 
