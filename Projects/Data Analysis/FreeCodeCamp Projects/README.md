@@ -1,7 +1,7 @@
 # Data Analysis using Python Projects
 
 
-Welcome to my Data Analysis using Python Projects repository! 🐍 Here, you'll find a collection of my projects completed as part of FreeCodeCamp's Data Analysis using Python certification. Each project is a step towards mastering data analysis and honing my Python programming skills.
+Welcome to my Data Analysis using Python Projects folder! 🐍 Here, you'll find a collection of my projects completed as part of FreeCodeCamp's Data Analysis using Python certification. Each project is a step towards mastering data analysis and honing my Python programming skills.
 
 ## Projects
 
